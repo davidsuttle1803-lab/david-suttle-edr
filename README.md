@@ -57,7 +57,7 @@ If you see potential in this direction, I would be glad to discuss possible aven
 
 - [Read the Expansion Defined Relativity Paper](https://edr.suttle.me.uk/1_Expansion_Defined_Relativity_V10_260713.html)
 - [Expansion Defined Relativity (PDF)](https://edr.suttle.me.uk/1_Expansion_Defined_Relativity_V10_PDF_260713.html)
-- [Download (ZIP)]([https://your-zip-url-here](https://edr.suttle.me.uk/1_Expansion_Defined_Relativity_V10_260713.zip))
+- [Download (ZIP)](https://edr.suttle.me.uk/1_Expansion_Defined_Relativity_V10_260713.zip)
 
 ### **Appendix**
 
