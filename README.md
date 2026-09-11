@@ -61,12 +61,12 @@ If you see potential in this direction, I would be glad to discuss possible aven
 
 ### **Appendix**
 
-- [Expansion Defined Relativity Appendix (PDF)]([https://your-appendix-pdf-url-here](https://edr.suttle.me.uk/2_Expansion_Defined_Relativity_Appendix_V10_PDF_260713.html))
-- [Download (ZIP)]([https://your-appendix-zip-url-here](https://edr.suttle.me.uk/2_Expansion_Defined_Relativity_Appendix_V10_260713.zip))
+- [Expansion Defined Relativity Appendix (PDF)](https://edr.suttle.me.uk/2_Expansion_Defined_Relativity_Appendix_V10_PDF_260713.html).
+- [Download (ZIP)](https://edr.suttle.me.uk/2_Expansion_Defined_Relativity_Appendix_V10_260713.zip).
 
 ---
 
 ## Research Profiles
 
-- [Expansion Defined Relativity Research — ResearchGate](https://your-researchgate-url-here)
-- [David Suttle — ORCID profile](https://your-orcid-url-here)
+- [Expansion Defined Relativity Research — ResearchGate](https://www.researchgate.net/profile/David-Suttle-2)
+- [David Suttle — ORCID profile](https://orcid.org/0009-0002-1519-5229)
