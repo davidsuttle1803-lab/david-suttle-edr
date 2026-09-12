@@ -8,7 +8,7 @@
 
 ---
 
-EDR is an alternative conceptual framework exploring whether a single underlying mechanism — **differential expansion setting the local rate of time** — may explain several persistent observational tensions within modern cosmology. These include:
+[Expansion Defined Relativity (EDR)](https://edr.suttle.me.uk/1_Expansion_Defined_Relativity_V10_260713.html) is an alternative conceptual framework exploring whether a single underlying mechanism — **differential expansion setting the local rate of time** — may explain several persistent observational tensions within modern cosmology. These include:
 
 - the Hubble tension  
 - unexpectedly mature early galaxies observed by the James Webb Space Telescope  
@@ -27,7 +27,7 @@ The framework recovers General Relativity's well-tested behaviour in weak-field 
 
 ## Version 10 Overview
 
-The latest Version 10 preprint introduces a **candidate form of the Expansion-Defined Relativity (EDR) master equation**, providing the first concrete mathematical expression of the framework's core axioms.
+The latest Version 10 preprint introduces a **candidate form of the[Expansion Defined Relativity (EDR)](https://edr.suttle.me.uk/1_Expansion_Defined_Relativity_V10_260713.html) master equation**, providing the first concrete mathematical expression of the framework's core axioms.
 
 The candidate equation takes the form of a **scalar wave equation** — mathematically intuitive and workable with standard field-theory tools — making exploratory mathematical investigation readily accessible without requiring the full apparatus of general relativity.
 
