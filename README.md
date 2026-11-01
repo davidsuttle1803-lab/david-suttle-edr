@@ -2,13 +2,13 @@
 
 **June 20, 2026**  
 **Author:** David Suttle  
-**Version 10 — published 13th July 2026**  
+**Version 10 — published 1st November 2026**  
 **Website:** [edr.suttle.me.uk](https://edr.suttle.me.uk)  
 **Email:** [edr@suttle.me.uk](mailto:edr@suttle.me.uk)
 
 ---
 
-[Expansion Defined Relativity (EDR)](https://edr.suttle.me.uk/1_Expansion_Defined_Relativity_V10_260713.html) is an alternative conceptual framework exploring whether a single underlying mechanism — **differential expansion setting the local rate of time** — may explain several persistent observational tensions within modern cosmology. These include:
+[Expansion Defined Relativity (EDR)](https://edr.suttle.me.uk/1_Expansion_Defined_Relativity_V11_261101.html) is a conceptual framework exploring whether a single underlying mechanism — **differential expansion setting the local rate of time** — may explain several persistent observational tensions within modern cosmology. These include:
 
 - the Hubble tension  
 - unexpectedly mature early galaxies observed by the James Webb Space Telescope  
@@ -25,21 +25,21 @@ The framework recovers General Relativity's well-tested behaviour in weak-field 
 
 ---
 
-## Version 10 Overview
+## Version 11 Overview
 
-The latest Version 10 preprint introduces a **candidate form of the [Expansion Defined Relativity (EDR)](https://edr.suttle.me.uk/1_Expansion_Defined_Relativity_V10_260713.html) master equation**, providing the first concrete mathematical expression of the framework's core axioms.
+Version 11 substantially expands the cosmological narrative developed by the framework. The paper introduces the concepts of Gravitational Advantage and Differentiation Potential as conceptual descriptors of structure formation efficiency, and uses them to provide a unified evolutionary account linking primordial quantum fluctuations, the Cosmic Microwave Background, Little Red Dots, the emergence of the cosmic web, galaxy evolution, and present-day cosmic acceleration.
 
-The candidate equation takes the form of a **scalar wave equation** — mathematically intuitive and workable with standard field-theory tools — making exploratory mathematical investigation readily accessible without requiring the full apparatus of general relativity.
+The mathematical section has been restructured and reframed as a candidate pathway towards future formalisation rather than a completed theory. Version 11 presents a candidate EDR master equation together with explicit physical boundary conditions that any future mathematical implementation would need to satisfy. The mathematical framework is deliberately presented as exploratory and illustrative rather than definitive.
 
-Version 10 represents the **first stable version** of the work, and future updates will be driven only by major conceptual or mathematical advances.
+Version 11 also develops several falsifiable observational predictions, including: Morphological and spectral relationships within JWST Little Red Dot populations; A unified galactic-gradient interpretation of several long-standing Solar System anomalies; Rotation-curve asymmetries correlated with void proximity; Evidence of long-term galactic mass shedding; Void-correlated cosmic acceleration; Environmental clock-rate differences between galaxies and cosmic voids.
 
-Version 10 also identifies a potentially novel connection between **three independently measured Solar System anomalies** as a unified **galactic gradient signature**, testable via meta-analysis of existing datasets without new observations.
+The work is presented as a conceptual framework intended to stimulate discussion, critical evaluation, observational testing, and further mathematical development. It does not claim to be a completed theory of gravity or cosmology. Rather, it seeks to define a coherent set of physical principles, identify testable consequences, and provide a foundation for future formal investigation.
 
 ---
 
 ## Purpose of the Work
 
-The work is presented as an **early-stage conceptual framework** intended to stimulate:
+The work is presented as a **conceptual framework** intended to stimulate:
 
 - discussion  
 - further development  
@@ -51,18 +51,18 @@ If you see potential in this direction, I would be glad to discuss possible aven
 
 ---
 
-## Latest Paper (Version 10)
+## Latest Paper (Version 11)
 
 ### **Read the Expansion Defined Relativity Paper**
 
-- [Read the Expansion Defined Relativity Paper](https://edr.suttle.me.uk/1_Expansion_Defined_Relativity_V10_260713.html)
-- [Expansion Defined Relativity (PDF)](https://edr.suttle.me.uk/1_Expansion_Defined_Relativity_V10_PDF_260713.html)
-- [Download (ZIP)](https://edr.suttle.me.uk/1_Expansion_Defined_Relativity_V10_260713.zip)
+- [Read the Expansion Defined Relativity Paper](https://edr.suttle.me.uk/1_Expansion_Defined_Relativity_V11_261101.html)
+- [Expansion Defined Relativity (PDF)](https://edr.suttle.me.uk/1_Expansion_Defined_Relativity_V11_PDF_261101.html)
+- [Download (ZIP)](https://edr.suttle.me.uk/1_Expansion_Defined_Relativity_V11_261101.zip)
 
 ### **Appendix**
 
-- [Expansion Defined Relativity Appendix (PDF)](https://edr.suttle.me.uk/2_Expansion_Defined_Relativity_Appendix_V10_PDF_260713.html).
-- [Download (ZIP)](https://edr.suttle.me.uk/2_Expansion_Defined_Relativity_Appendix_V10_260713.zip).
+- [Expansion Defined Relativity Appendix (PDF)](https://edr.suttle.me.uk/2_Expansion_Defined_Relativity_Appendix_V11_PDF_261101.html).
+- [Download (ZIP)](https://edr.suttle.me.uk/2_Expansion_Defined_Relativity_Appendix_V11_261101.zip).
 
 ---
 
