@@ -1,8 +1,8 @@
 # Expansion Defined Relativity
 
-**June 20, 2026**  
+**1st November, 2026**  
 **Author:** David Suttle  
-**Version 10 — published 1st November 2026**  
+**Version 11 — published 1st November 2026**  
 **Website:** [edr.suttle.me.uk](https://edr.suttle.me.uk)  
 **Email:** [edr@suttle.me.uk](mailto:edr@suttle.me.uk)
 
